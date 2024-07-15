@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 void printHollowDiamond(int n) {
     int i = 0;
 
